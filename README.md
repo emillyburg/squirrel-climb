@@ -5,7 +5,7 @@
 **Github de cada participante da equipe:**
 Laryssa: https://github.com/laryssadandara
 Emilly: https://github.com/emillyburg 
-João Amaral: @joaoamaral4
+João Amaral:@joaoamaral4
 
 **Inpiração:** O jogo Squirrel Climb tem como inspiração o jogo de escalada do aplicativo Pou.
 
