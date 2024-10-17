@@ -19,6 +19,7 @@ Amaral:@joaoamaral4
 **Etapa 3:** Inicio da programação, utilizamos a progamção de um desenvolvimento de sistema de quest como base e fomos alterando conforme as necessidades do jogo.
 
 *Obs 1: Devido a diversos problemas em relação a programação, foi necessário a ajuda e o auxilio da professora e do aluno Pedro.*
+
 *Obs 2: A programação do jogo ainda não está finalizada, devido alguns problemas em relação as colisões das imagens.*  
 
 **Material ref utilizado:** https://drive.google.com/drive/folders/1fDpr9P9Fn7vtrpgeNGYUV9vGv7oO98uz
