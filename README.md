@@ -2,6 +2,11 @@
 
 **Equipe:** Laryssa, Emilly e João Amaral
 
+**Github de cada participante da equipe:**
+Laryssa: https://github.com/laryssadandara
+Emilly: 
+João Amaral: @joaoamaral4
+
 **Inpiração:** O jogo Squirrel Climb tem como inspiração o jogo de escalada do aplicativo Pou.
 
 **Objetivo do jogo:** O jogador controla um esquilo que precisa escalar troncos de árvores em busca de uma noz. O desafio é desviar de nuvens que podem derrubar o esquilo e atrasar sua jornada.
