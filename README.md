@@ -22,5 +22,7 @@ Amaral:https://github.com/joaoamaral4
 
 *Obs 2: A programação do jogo ainda não está finalizada, devido alguns problemas em relação as colisões das imagens.*  
 
+*Obs 3: Jogo finalizado*
+
 **Material ref utilizado:** https://drive.google.com/drive/folders/1fDpr9P9Fn7vtrpgeNGYUV9vGv7oO98uz
   
