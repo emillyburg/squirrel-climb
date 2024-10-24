@@ -14,9 +14,13 @@ Amaral:https://github.com/joaoamaral4
 **Controles:** O jogador usa as letras **A** e **D** do teclado para controlar os pulos do esquilo durante a escalada.
 
 **Desenvolvimento do Jogo:** A criação do jogo foi dividido em várias etapas. 
+
 **Etapa 1:** Criação das telas ( tela inicial, tela do jogo, tela de vitória e tela de derrota).
+
 **Etapa 2:** Design do personagem, dos troncos e das nuvens. 
+
 **Etapa 3:** Inicio da programação, utilizamos a progamação de um desenvolvimento de sistema de quest como base e fomos alterando conforme as necessidades do jogo. **OBS: UTILIZANDO O REPLIT**
+
 **Etapa 4:** Devido a alguns problemas com a programação no replit, em relação as colisões, o jogo foi programado no **VSCODE** e finalizado no mesmo, adotando algumas modificações.
 
 
