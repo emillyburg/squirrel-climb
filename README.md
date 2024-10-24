@@ -7,16 +7,18 @@ Laryssa:https://github.com/laryssadandara
 Emilly:https://github.com/emillyburg 
 Amaral:https://github.com/joaoamaral4
 
-**Inpiração:** O jogo Squirrel Climb tem como inspiração o jogo de escalada do aplicativo Pou.
+**Inspiração:** O jogo Squirrel Climb tem como inspiração o jogo de escalada do aplicativo Pou.
 
-**Objetivo do jogo:** O jogador controla um esquilo que precisa escalar troncos de árvores em busca de uma noz. O desafio é desviar de nuvens que podem derrubar o esquilo e atrasar sua jornada.
+**Objetivo do jogo:** O jogador irá controlar um esqulio durante sua jornada de escalada com o objetivo de sobreviver pelo maior tempo possível, desviando das nuvens(obstáculos), com o objetivo de conquiatar o máximo de pontos possível.  
 
-**Controles:** O jogador usa setas ou toques na tela para mover o esquilo para cima, para os lados e para baixo, enquanto sobe pelo tronco da árvore e desvia das árvores.
+**Controles:** O jogador usa as letras **A** e **D** do teclado para controlar os pulos do esquilo durante a escalada.
 
 **Desenvolvimento do Jogo:** A criação do jogo foi dividido em várias etapas. 
 **Etapa 1:** Criação das telas ( tela inicial, tela do jogo, tela de vitória e tela de derrota).
 **Etapa 2:** Design do personagem, dos troncos e das nuvens. 
-**Etapa 3:** Inicio da programação, utilizamos a progamção de um desenvolvimento de sistema de quest como base e fomos alterando conforme as necessidades do jogo.
+**Etapa 3:** Inicio da programação, utilizamos a progamação de um desenvolvimento de sistema de quest como base e fomos alterando conforme as necessidades do jogo. **OBS: UTILIZANDO O REPLIT**
+**Etapa 4:** Devido a alguns problemas com a programação no replit, em relação as colisões, o jogo foi programado no **VSCODE** e finalizado no mesmo, adotando algumas modificações.
+
 
 *Obs 1: Devido a diversos problemas em relação a programação, foi necessário a ajuda e o auxilio da professora e do aluno Pedro.*
 
